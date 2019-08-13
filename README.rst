@@ -26,6 +26,7 @@
 scikit-learn
 ============
 
+
 scikit-learn is a Python module for machine learning built on top of
 SciPy and is distributed under the 3-Clause BSD license.
 
@@ -168,3 +169,6 @@ Citation
 ~~~~~~~~
 
 If you use scikit-learn in a scientific publication, we would appreciate citations: http://scikit-learn.org/stable/about.html#citing-scikit-learn
+
+Contributors
+- Add your name.
